@@ -9,6 +9,8 @@ public class OOSSTest {
 		for(int i=0; i<str2.length; i++ ){
 			if(str2[i].equals("Hello")){
 				count++;
+				
+				System.out.println("Cont value "+count);
 			}
 		}
 			System.out.println("No of occurenceOf Hello : "+count);
