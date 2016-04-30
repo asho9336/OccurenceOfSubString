@@ -11,6 +11,7 @@ public class OOSSTest {
 				count++;
 				
 				System.out.println("Cont value "+count);
+				System.out.println("Second check in");
 			}
 		}
 			System.out.println("No of occurenceOf Hello : "+count);
